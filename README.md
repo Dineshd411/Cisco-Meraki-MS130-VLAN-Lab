@@ -1,6 +1,6 @@
 # Cisco Meraki MS130-8P + FortiGate 40F VLAN Segmentation Lab
 
-A hands-on lab where a **cloud-managed Cisco Meraki MS130-8P** access switch is integrated with a **FortiGate 40F** acting as the inter-VLAN gateway and internet edge — with VLAN segmentation, per-VLAN DHCP, NAT policies and end-to-end client verification.
+A lab where a **cloud-managed Cisco Meraki MS130-8P** access switch is integrated with a **FortiGate 40F** acting as the inter-VLAN gateway and internet edge — with VLAN segmentation, per-VLAN DHCP, NAT policies and end-to-end client verification.
 
 ---
 
